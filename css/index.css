@@ -1,0 +1,153 @@
+body{
+  font-family: "Helvetica";
+  padding: 20px 0;
+}
+
+div{
+  box-sizing: border-box;
+}
+
+.cv-header, .cont{
+  width: 1200px;
+  margin: auto;
+  overflow: hidden;
+  margin-top: 20px;
+}
+
+.cv-header-photo{
+  float:left;
+  width: 15.3%;
+  margin-right: 3%;
+}
+
+.cv-header-info-title{
+  font-weight: normal;
+  margin:0;
+  font-size: 40px;
+  border-bottom: 2px solid black;
+  line-height: 1;
+}
+
+.cv-header-info{
+  float:left;
+  width: 81.7%;
+}
+
+.cv-header-info-position{
+  margin:25px 0;
+  font-size: 28px;
+  font-weight: normal;
+}
+
+.cv-header-info-contact{
+  overflow: hidden;
+  margin:4.8% 0 0;
+}
+
+.cv-header-info-contact-label{
+  float:left;
+  width: 78%;
+  margin-right: 1%:
+}
+
+.cv-header-info-contacts{
+  float:left;
+  width: 22%;
+}
+
+.cv-header-info-contact-label{
+  font-size: 20px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+.cv-header-info-contacts h4{
+  margin:0 0 4px;
+  font-weight: normal;
+}
+
+.cv-header-info-contacts span{
+  width: 80px;
+  display: inline-block;
+}
+
+.section-label{
+  float:left;
+  width: 15.3%;
+  margin-right: 3%;
+  font-weight: normal;
+  font-size: 20px;
+  text-transform: uppercase;
+  border-bottom: 2px solid black;
+  margin-top: 5px;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+.section-cont{
+  float: left;
+  width: 81.7%;
+}
+
+.section-cont h3{
+  font-size: 20px;
+  border-bottom: 2px solid black;
+  font-weight: normal;
+  float:left;
+  padding: 2px 5px;
+  box-sizing: border-box;
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+
+.section-cont h4{
+  font-size: 16px;
+  font-weight: normal;
+  color:#333;
+  float:left;
+  margin-bottom: 0;
+  margin-top: 5px;
+  padding:5px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #333;
+}
+
+.skill{
+  width: 40%;
+}
+
+.skill-sub{
+  width: 60%;
+}
+
+.skill-small{
+  width: 40%;
+}
+
+.subskill-small{
+  width: 60%;
+}
+
+.url{
+  width:33.3333%
+}
+
+.technologies{
+  width: 33.3333%;
+}
+
+.tasks{
+  width: 33.3334%;
+}
+
+.section-cont h4 span{
+  font-size: 24px;
+}
+
+.height-75{
+  height: 75px;
+}
+
+.height-60{
+  height: 58px;
+}
