@@ -30,7 +30,7 @@ div{
 
 .cv-header-info{
   float:left;
-  width: 81.7%;
+  width: 80%;
 }
 
 .cv-header-info-position{
@@ -86,7 +86,7 @@ div{
 
 .section-cont{
   float: left;
-  width: 81.7%;
+  width: 80%;
 }
 
 .section-cont h3{
@@ -113,7 +113,7 @@ div{
 }
 
 .skill{
-  width: 30%;
+  width: 38%;
 }
 
 .skill-sub{
@@ -121,7 +121,7 @@ div{
 }
 
 .skill-small{
-  width: 30%;
+  width: 38%;
 }
 
 .subskill-small{
@@ -129,15 +129,15 @@ div{
 }
 
 .url{
-  width:33.3333%
+  width:33%
 }
 
 .technologies{
-  width: 33.3333%;
+  width: 33%;
 }
 
 .tasks{
-  width: 33.3334%;
+  width: 32%;
 }
 
 .section-cont h4 span{
